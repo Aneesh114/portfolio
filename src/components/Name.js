@@ -1,3 +1,5 @@
+//src\components\Name.js
+
 function Name() {
   return (
     <div className="name-block">

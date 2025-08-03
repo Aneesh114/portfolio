@@ -1,3 +1,4 @@
+//src\components\ProjectCard.js
 import './ProjectCard.css';
 
 function ProjectCard({ image, title, description, repo }) {

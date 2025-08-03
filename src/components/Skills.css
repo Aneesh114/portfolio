@@ -1,0 +1,38 @@
+.skills-page {
+  padding: 2rem;
+  background-color: #f9f9f9;
+}
+
+.skill-category {
+  margin-bottom: 2rem;
+}
+
+.skill-category h3 {
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.skills-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.skill-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100px;
+  text-align: center;
+}
+
+.skill-item img {
+  width: 48px;
+  height: 48px;
+}
+
+.skill-item span {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #222;
+}

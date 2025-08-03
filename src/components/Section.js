@@ -1,3 +1,4 @@
+//src\components\Section.js
 function Section() {
   return (
     <div className="section-block">

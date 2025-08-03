@@ -1,3 +1,4 @@
+//src\components\Aside.js
 import profileImage from '../assets/profilePic.jpeg';
 
 function Aside() {
