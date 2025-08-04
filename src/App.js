@@ -16,7 +16,7 @@ function HomePage() {
   return (
     <main className="main-wrapper">
       <div className="left-half">
-        <Name />
+        
         <Section />
       </div>
       <div className="right-half">
